@@ -1,0 +1,29 @@
+[33mcommit cce7a3f70c411faed2f974ed559dc74a7fc380a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32marray[m[33m)[m
+Author: Mahruf Hossain <mahrufhossain97@gmail.com>
+Date:   Mon Jun 3 20:46:20 2024 +0600
+
+    Added a new leetcode problem
+
+[33mcommit 83c41129b4b5be0dd63f194fe689096d499068a4[m[33m ([m[1;31morigin/array[m[33m)[m
+Author: Mahruf Hossain <mahrufhossain97@gmail.com>
+Date:   Sun Jun 2 13:42:20 2024 +0600
+
+    Updated the 1920..... problems with code
+
+[33mcommit 6c3d6561e406f9d7a5be7aaaadc774156eacf635[m
+Author: Mahruf Hossain <mahrufhossain97@gmail.com>
+Date:   Sun Jun 2 13:27:13 2024 +0600
+
+    Addin to separate folder for c and python
+
+[33mcommit 14e4da20499a57d09c16be08a13c9698a0e00123[m
+Author: Mahruf Hossain <mahrufhossain97@gmail.com>
+Date:   Sat Jun 1 14:30:59 2024 +0600
+
+    This is a program from Leetcode problem 1920 based on build array from permutation
+
+[33mcommit d302c0a338c8d0eef8907c51c87b41fee549ed42[m[33m ([m[1;31morigin/Tree[m[33m, [m[1;31morigin/String[m[33m, [m[1;31morigin/Linked_List[m[33m, [m[1;31morigin/Hash-Table[m[33m, [m[1;31morigin/Graph[m[33m, [m[1;31morigin/Dynamic_Programming[m[33m, [m[1;32mTree[m[33m, [m[1;32mString[m[33m, [m[1;32mLinked_List[m[33m, [m[1;32mHash-Table[m[33m, [m[1;32mGraph[m[33m, [m[1;32mDynamic_Programming[m[33m)[m
+Author: Mahruf Hossain <88084890+mahruf-hossain@users.noreply.github.com>
+Date:   Sat Jun 1 14:18:38 2024 +0600
+
+    Initial commit
