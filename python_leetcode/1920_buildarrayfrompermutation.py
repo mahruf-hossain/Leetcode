@@ -39,3 +39,4 @@ def buildArray(nums: list[int]) -> list[int]:
     return [
         nums[nums[i]] for i in range(len(nums))
     ]
+print("Hello World")
